@@ -1,0 +1,12 @@
+D:\ThucTap\Cartoon\Cartoon.Core\bin\Debug\net6.0\Cartoon.Core.deps.json
+D:\ThucTap\Cartoon\Cartoon.Core\bin\Debug\net6.0\Cartoon.Core.dll
+D:\ThucTap\Cartoon\Cartoon.Core\bin\Debug\net6.0\Cartoon.Core.pdb
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.csproj.AssemblyReference.cache
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.AssemblyInfoInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.AssemblyInfo.cs
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.csproj.CoreCompileInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.dll
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\refint\Cartoon.Core.dll
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\Cartoon.Core.pdb
+D:\ThucTap\Cartoon\Cartoon.Core\obj\Debug\net6.0\ref\Cartoon.Core.dll

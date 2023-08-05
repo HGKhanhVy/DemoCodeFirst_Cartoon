@@ -1,0 +1,17 @@
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Contract.Repository.deps.json
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Contract.Repository.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Contract.Repository.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Core.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Core.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.csproj.AssemblyReference.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.AssemblyInfoInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.AssemblyInfo.cs
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.csproj.CoreCompileInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.csproj.CopyComplete
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\refint\Cartoon.Contract.Repository.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\ref\Cartoon.Contract.Repository.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\bin\Debug\net6.0\Cartoon.Contract.Repository.runtimeconfig.json
+D:\ThucTap\Cartoon\Cartoon.Contract.Repository\obj\Debug\net6.0\Cartoon.Contract.Repository.genruntimeconfig.cache

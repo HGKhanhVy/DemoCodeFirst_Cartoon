@@ -1,0 +1,17 @@
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Contract.Service.deps.json
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Contract.Service.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Contract.Service.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Contract.Repository.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Core.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Contract.Repository.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\bin\Debug\net6.0\Cartoon.Core.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.csproj.AssemblyReference.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.AssemblyInfoInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.AssemblyInfo.cs
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.csproj.CoreCompileInputs.cache
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.csproj.CopyComplete
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\refint\Cartoon.Contract.Service.dll
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\Cartoon.Contract.Service.pdb
+D:\ThucTap\Cartoon\Cartoon.Contract.Service\obj\Debug\net6.0\ref\Cartoon.Contract.Service.dll
